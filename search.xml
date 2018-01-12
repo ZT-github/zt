@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[1111]]></title>
+    <url>%2F2018%2F01%2F12%2F1111%2F</url>
+    <content type="text"><![CDATA[git使用 123456git initgit add README.mdgit commit -m &quot;first commit&quot;git remote add origin https://github.com/zthing/hexo.gitgit push -u origin mastergit pull --rebase origin master [注：pull=fetch+merge] hexo 加入站点内容搜索功能 $ npm install hexo-generator-searchdb –save站点配置文件添加12345search: path: search.xml field: post format: html limit: 10000 hexo 添加评论 友言评论：注册 得到uid主题配置文件添加1youyan_uid: uid hexo 部署到 github 出现错误：ERROR Deployer not found: git123npm install hexo-deployer-git --savehexo g --生成hexo d --部署 hexo 访问量 为NexT主题添加文章阅读量统计功能 hexo 样式 hexo的next主题个性化配置教程 hexo 添加宠物 hexo-helper-live2d]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>bbb</tag>
+        <tag>ccc</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F01%2F12%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>aaa</tag>
+        <tag>bbb</tag>
+      </tags>
+  </entry>
+</search>
